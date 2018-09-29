@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+9,28,2018
 
 ## Student Name:  
-(First and Last Name)
+Joshua Barrios  
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Giving 5 key concepts of lesson 3 with version control
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. how to upload to github
+2. using temrinal commmands like cd and ls
+3. difference between local and remote repos
 
